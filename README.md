@@ -1,8 +1,5 @@
 🎓 U.S. Higher Education Dashboard
 Analyzing 2,700+ Institutions to Surface ROI, Equity Gaps, and State-Level Disparities
-<img width="670" height="687" alt="image" src="https://github.com/user-attachments/assets/e0deba6f-12d4-4e19-aedc-908ddc0da952" />
-
-<img width="695" height="329" alt="image" src="https://github.com/user-attachments/assets/b89ea5ae-3f94-4255-abd4-e536a2af9d8c" />
 
 📌 Project Overview
 An end-to-end Business Intelligence solution built on real U.S. Department of Education data. This dashboard helps university administrators, policy makers, and prospective students answer three fundamental questions:
@@ -123,7 +120,7 @@ Requirements: Python 3.8+, Pandas, Power BI Desktop (free)
 👤 Author
 Naga Vamsi Chaitanya Pammi
 
-LinkedIn: linkedin.com/in/nagapammi
+LinkedIn: www.linkedin.com/in/nagapammi
 Email: naga.pammi@outlook.com
 
 
