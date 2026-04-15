@@ -102,7 +102,7 @@ Built three normalized tables for Power BI:
 - fact_institutions: all numeric metrics joined to both dimensions
 - Relationships built in Power BI Model View on institution_id and location_id.
 
-**Step 4 — DAX Measures (20 total)
+Step 4 — DAX Measures (20 total)
 Custom measures across 7 categories:
 
 CategoryMeasuresSummaryTotal Institutions, Total EnrollmentPerformanceAvg Graduation Rate, Avg Retention Rate, Avg Admission RateFinancialAvg Tuition In-State, Avg Tuition Out-of-State, Avg Median Debt, Avg Grad DebtEarningsAvg Earnings 6yr, Avg Earnings 10yr, Avg ROIDemographicsAvg Pell Grant %, Avg First Gen %, Avg Female %ContextualAvg Poverty Rate, Avg Unemployment Rate, Avg Federal Loan %RankingsHigh ROI Schools (ROI > 2), Affordable Schools (Tuition < $10K)
@@ -131,5 +131,5 @@ This is real government data, not a synthetic or Kaggle dataset.
 - Naga Vamsi Chaitanya Pammi
 - LinkedIn: www.linkedin.com/in/nagapammi
 - Email: naga.pammi@outlook.com
-- 
+  
 Built as a portfolio project demonstrating end-to-end BI development using real U.S. government data.
