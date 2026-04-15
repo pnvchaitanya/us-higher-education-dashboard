@@ -24,23 +24,34 @@ The project covers the full data pipeline — raw government data → Python cle
 Page 1 — Executive Summary
 "What is the overall state of American higher education?"
 High-level national snapshot: 2,745 institutions, 13M total enrolled students, average graduation rate, tuition, debt, and earnings. Includes institution type breakdown and state-level institution counts.
+
 <img width="2064" height="1195" alt="image" src="https://github.com/user-attachments/assets/47303bcb-d764-464d-8cd4-f06d163deffd" />
+
 Page 2 — Institution Analysis
 "Which individual schools offer the best value?"
 Searchable, sortable table of all institutions with graduation rate, tuition, debt, and earnings. Scatter plot of tuition vs. earnings reveals value outliers. Top 15 schools by median earnings ranked.
+
 <img width="2065" height="1191" alt="image" src="https://github.com/user-attachments/assets/4b5f420a-6897-4a67-afed-e1b99158600d" />
+
 Page 3 — State Level Analysis
 "How does geography shape educational outcomes?"
 Choropleth map colored by graduation rate. State rankings by graduation rate, earnings, and in-state tuition — revealing that the highest-performing states are not always the most affordable.
+
 <img width="2073" height="1203" alt="image" src="https://github.com/user-attachments/assets/84325d9e-23b2-42db-8752-e9ab7806fbb5" />
+
 Page 4 — Student Outcomes
 "Is college actually worth it financially?"
 ROI comparison across institution types. Debt vs. earnings scatter plot. 10-year earnings progression. Public schools dominate ROI despite lower tuition — a counterintuitive finding with major policy implications.
+
 <img width="2064" height="1204" alt="image" src="https://github.com/user-attachments/assets/ec6afbf9-ec9f-47ad-a55d-c859ef4e077d" />
+
 Page 5 — Affordability & Access
+
 "Who gets left behind in American higher education?"
 Pell Grant and first-generation student representation by institution type and state. Poverty rate vs. graduation rate relationship. Reveals systemic equity gaps between institution types and geographic regions.
+
 <img width="2070" height="1201" alt="image" src="https://github.com/user-attachments/assets/2acb17cb-e772-4a4a-9efe-08c5fbb3e71a" />
+
 🛠️ Tech Stack
 LayerTools UsedData Cleaning & TransformationPython, PandasData ModelingStar Schema (Power BI Model View)Metrics & KPIsDAX (20 custom measures)VisualizationPower BI DesktopVersion ControlGit, GitHub
 
