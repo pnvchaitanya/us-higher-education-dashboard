@@ -45,6 +45,7 @@ Pell Grant and first-generation student representation by institution type and s
 LayerTools UsedData Cleaning & TransformationPython, PandasData ModelingStar Schema (Power BI Model View)Metrics & KPIsDAX (20 custom measures)VisualizationPower BI DesktopVersion ControlGit, GitHub
 
 📂 Project Structure
+
 us-higher-education-dashboard/
 │
 ├── raw_data/
