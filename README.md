@@ -1,11 +1,14 @@
 🎓 U.S. Higher Education Dashboard
+
 Analyzing 2,700+ Institutions to Surface ROI, Equity Gaps, and State-Level Disparities
 
 📌 Project Overview
 An end-to-end Business Intelligence solution built on real U.S. Department of Education data. This dashboard helps university administrators, policy makers, and prospective students answer three fundamental questions:
 
 Is college worth the investment? (ROI analysis across institution types)
+
 Which states and schools deliver the best outcomes? (Geographic performance analysis)
+
 Who gets left behind? (Equity and affordability analysis for low-income and first-generation students)
 
 The project covers the full data pipeline — raw government data → Python cleaning → star schema modeling → 5-page interactive Power BI dashboard.
