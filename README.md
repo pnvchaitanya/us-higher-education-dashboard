@@ -110,6 +110,7 @@ Requirements: Python 3.8+, Pandas, Power BI Desktop (free)
 Naga Vamsi Chaitanya Pammi
 
 LinkedIn: www.linkedin.com/in/nagapammi
+
 Email: naga.pammi@outlook.com
 
 
