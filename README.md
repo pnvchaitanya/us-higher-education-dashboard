@@ -45,33 +45,28 @@ Pell Grant and first-generation student representation by institution type and s
 LayerTools UsedData Cleaning & TransformationPython, PandasData ModelingStar Schema (Power BI Model View)Metrics & KPIsDAX (20 custom measures)VisualizationPower BI DesktopVersion ControlGit, GitHub
 
 📂 Project Structure
---
+
 us-higher-education-dashboard/
-│
 ├── raw_data/
 │   └── Most-Recent-Cohorts-Institution.csv    # Source: U.S. Dept. of Education
-│
 ├── cleaned_data/
 │   ├── cleaned_institutions.csv               # Cleaned master dataset
 │   ├── dim_institution.csv                    # Dimension: school attributes
 │   ├── dim_location.csv                       # Dimension: state-level info
 │   └── fact_institutions.csv                  # Fact: all metrics and KPIs
-│
 ├── scripts/
 │   ├── 01_explore_data.py                     # Initial data exploration
 │   ├── 02_clean_transform.py                  # Cleaning, filtering, ROI calc
 │   └── 03_build_star_schema.py                # Star schema table creation
-│
 ├── screenshots/
 │   ├── page1_executive_summary.png
 │   ├── page2_institution_analysis.png
 │   ├── page3_state_analysis.png
 │   ├── page4_student_outcomes.png
 │   └── page5_affordability_access.png
-│
 ├── Higher_Education_Dashboard.pbix            # Power BI file
 └── README.md
---
+
 ⚙️ Data Pipeline
 Step 1 — Data Acquisition
 Downloaded the Most Recent Cohorts Institution dataset from the U.S. Department of Education College Scorecard. Raw file contains 6,000+ institutions and 3,000+ columns.
