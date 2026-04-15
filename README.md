@@ -58,12 +58,7 @@ us-higher-education-dashboard/
 │   ├── 01_explore_data.py                     # Initial data exploration
 │   ├── 02_clean_transform.py                  # Cleaning, filtering, ROI calc
 │   └── 03_build_star_schema.py                # Star schema table creation
-├── screenshots/
-│   ├── page1_executive_summary.png
-│   ├── page2_institution_analysis.png
-│   ├── page3_state_analysis.png
-│   ├── page4_student_outcomes.png
-│   └── page5_affordability_access.png
+├── Dashboard.pdf
 ├── Higher_Education_Dashboard.pbix            # Power BI file
 └── README.md
 
