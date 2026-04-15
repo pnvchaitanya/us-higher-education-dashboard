@@ -47,8 +47,6 @@ LayerTools UsedData Cleaning & TransformationPython, PandasData ModelingStar Sch
 📂 Project Structure
 
 us-higher-education-dashboard/
-├── raw_data/
-│   └── Most-Recent-Cohorts-Institution.csv    # Source: U.S. Dept. of Education
 ├── cleaned_data/
 │   ├── cleaned_institutions.csv               # Cleaned master dataset
 │   ├── dim_institution.csv                    # Dimension: school attributes
