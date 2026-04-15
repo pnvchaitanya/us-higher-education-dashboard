@@ -47,11 +47,17 @@ LayerTools UsedData Cleaning & TransformationPython, PandasData ModelingStar Sch
 📂 Project Structure
 
 us-higher-education-dashboard/
+
 ├── cleaned_data/
+
 │   ├── cleaned_institutions.csv               # Cleaned master dataset
+
 │   ├── dim_institution.csv                    # Dimension: school attributes
+
 │   ├── dim_location.csv                       # Dimension: state-level info
+
 │   └── fact_institutions.csv                  # Fact: all metrics and KPIs
+
 ├── scripts/
 │   ├── 01_explore_data.py                     # Initial data exploration
 │   ├── 02_clean_transform.py                  # Cleaning, filtering, ROI calc
